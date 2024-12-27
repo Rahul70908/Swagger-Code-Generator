@@ -41,7 +41,7 @@ To change the language, update the <language> field in the plugin configuration 
 
 <h3><b>Clone the Repository</b></h3>
 
-* git clone https://github.com/Rahul70908/spring-boot-swagger-codegen.git
+* git clone [https://github.com/Rahul70908/spring-boot-swagger-codegen.git](https://github.com/Rahul70908/Swagger-Code-Generator.git)
 * cd spring-boot-swagger-codegen
 * Place your OpenAPI specification file (e.g., data.yaml) in the src/main/resources directory.
 * Update the swagger-codegen-maven-plugin configuration in the pom.xml
